@@ -1,5 +1,4 @@
 # shopping-cart-system
-# Shopping Cart System
 
 A simple console-based Shopping Cart System built using Python and MySQL.
 
